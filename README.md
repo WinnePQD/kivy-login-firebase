@@ -39,6 +39,4 @@ Este projeto foi desenvolvido como estudo/prática de autenticação de usuário
 2. Instale as dependências
 3. Execute o arquivo principal:
 
-```bash
-python main.py
-```
+
